@@ -1,0 +1,5 @@
+# Rust build directories
+target/
+
+# Course material
+*.pdf

@@ -1,0 +1,5 @@
+computadora
+programar
+algoritmo
+variable
+compilador
