@@ -1,0 +1,3 @@
+Rust es un lenguaje de programación rápido y seguro.
+El lenguaje Rust permite desarrollar software seguro.
+Rust es utilizado para crear programas eficientes.

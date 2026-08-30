@@ -1,0 +1,4 @@
+La programación permite crear aplicaciones y sistemas.
+Rust es un lenguaje utilizado en programación de sistemas.
+Los sistemas seguros necesitan software eficiente y confiable.
+La programación en Rust permite crear software eficiente.
