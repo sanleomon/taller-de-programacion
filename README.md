@@ -8,3 +8,4 @@ Taller de Programación de FIUBA 2do Cuatrimestre 2026.
 ### Clase 1
 
 - Ahorcado desarrollado en Rust.
+- Contador de frecuencia de palabras desarrollado en Rust.
