@@ -1,0 +1,3 @@
+Rust es rápido
+Rust es seguro
+Estamos aprendiendo borrowing
