@@ -1,0 +1,9 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "Clase_1/ahorcado/Cargo.toml",
+        "Clase_1/buscador_full_text/Cargo.toml",
+        "Clase_1/contar_palabras/Cargo.toml",
+        "Clase_2/diff/Cargo.toml",
+        "Clase_3/cuentas_bancarias/Cargo.toml"
+    ]
+}
