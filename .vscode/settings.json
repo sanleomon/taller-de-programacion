@@ -6,6 +6,8 @@
         "Clase_2/diff/Cargo.toml",
         "Clase_3/cuentas_bancarias/Cargo.toml",
         "Clase_3/thread_pool/Cargo.toml",
-        "Clase_3/contar_palabras_concurrente/Cargo.toml"
+        "Clase_3/contar_palabras_concurrente/Cargo.toml",
+        "Clase_4/sockets_intro_a/Cargo.toml",
+        "Clase_4/sockets_intro_b/Cargo.toml"
     ]
 }
