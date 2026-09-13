@@ -17,5 +17,8 @@ Taller de Programación de FIUBA 2do Cuatrimestre 2026.
 
 ### Clase 3
 
-- Simulación de operaciones sobre una cuenta bancaria utilizando concurrencia.
-- Uso de threads, `Arc`, `RwLock` y channels para compartir datos y sincronizar operaciones.
+- Simulación de operaciones concurrentes sobre una cuenta bancaria utilizando threads, `Arc`, `RwLock` y channels.
+
+- Implementación de un Thread Pool con workers concurrentes, channels, cierre ordenado y reemplazo de workers ante errores.
+
+- Contador de frecuencia de palabras concurrente sobre múltiples archivos, comparando resultados parciales mediante `join()`, comunicación mediante channels y un mapa global compartido con `Arc` y `Mutex`.
