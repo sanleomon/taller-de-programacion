@@ -1,0 +1,2 @@
+rust es rapido
+rust es seguro

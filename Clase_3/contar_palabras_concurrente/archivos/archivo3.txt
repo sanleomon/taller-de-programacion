@@ -1,0 +1,2 @@
+rust permite concurrencia
+concurrencia con threads
